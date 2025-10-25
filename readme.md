@@ -3,16 +3,18 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+  <a href="https://iamprogrammer.lk/theme_yellow_mellow">
+    <img src="resource/promo_tile/marquee_promo_tile_1400x560.png" alt="iamprogrammer.lk" width="100%">
   </a>
 </div>
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Yellow Mellow (Theme by I am Programmer)
 
-{{PROJECT_DESCRIPTION}}
+Keep things bright and easy with Yellow Mellow. This gentle yellow theme radiates happiness and calm, bringing a sense of sunshine and positivity to every tab. Designed for Google Chrome and other Chromium-based web browsers, it’s the perfect companion for cheerful, stress-free browsing.
+
+Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
 
 > [!TIP]
 >
@@ -199,7 +201,7 @@ See [license][license_md] for more information.
 
 ---
 
-[chromewebstore]: https://chromewebstore.google.com/detail/{{CHROME_EXTENSION_ID}}
+[chromewebstore]: https://chromewebstore.google.com/detail/odbkaenpahllodglapdaobbbdgkieonk
 [releases]: /../../releases
 [extensions]: chrome://extensions
 [chrome]: https://www.google.com/chrome/
