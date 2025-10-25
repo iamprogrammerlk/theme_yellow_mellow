@@ -12,6 +12,8 @@
 
 # Yellow Mellow (Theme by I am Programmer)
 
+_Theme for Chromium-based Web Browsers_
+
 Keep things bright and easy with Yellow Mellow. This gentle yellow theme radiates happiness and calm, bringing a sense of sunshine and positivity to every tab. Designed for Google Chrome and other Chromium-based web browsers, it’s the perfect companion for cheerful, stress-free browsing.
 
 Transform your browsing experience today with this beautiful theme, where minimalism meets elegance. With this beautifully designed theme, you can enjoy a more pleasant and productive digital journey.
