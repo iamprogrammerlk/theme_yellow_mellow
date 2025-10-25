@@ -1,5 +1,5 @@
 {
-  "author": "I am Programmer <contact@iamprogrammer.lk>",
+  "author": "I am Programmer (contact@iamprogrammer.lk)",
   "description": "A bright yellow-themed design that brings sunlight to your browsing. Made for Google Chrome and other Chromium-based web browsers",
   "icons": {
     "128": "image/store_icon_128x128.png"
@@ -42,6 +42,6 @@
       "toolbar_text": [89, 64, 17]
     }
   },
-  "version": "25.10.00",
-  "version_name": "25.10.00"
+  "version": "25.10.25",
+  "version_name": "25.10.25"
 }
